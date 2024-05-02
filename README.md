@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sheena-k
-- 🌱 I’m an aspiring Data Scientist / Data Analyst
 - 💞️ I’m looking to collaborate on Data Science and Analytics Projects.
 - 📫 How to reach me : sksheena@gmail.com
 
