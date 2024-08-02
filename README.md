@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sheena-k
-- 💞️ I’m looking to collaborate on Data Science and Analytics Projects.
+- 💻 Machine Learning Engineer
 - 📫 How to reach me : sksheena@gmail.com
 
 <!---
