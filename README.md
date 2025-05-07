@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sheena-k
-- 💻 Machine Learning Engineer
+- 💻 Data Analyst & Machine Learning Professional
 - 📫 How to reach me : sksheena@gmail.com
 
 <!---
