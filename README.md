@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sheena-k
-- 💻 Machine Learning Professional
+- 💻 QA Automation Specialist
 - 📫 How to reach me : sksheena@gmail.com
 
 <!---
